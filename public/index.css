@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+#letters {
+  margin-top: 50px;
+}
+
+#playAgain-btn {
+  display: none;
+}
